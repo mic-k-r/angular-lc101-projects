@@ -1,0 +1,10 @@
+.chores {
+    color: #bf8ab3;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    /* text-align: right; */
+}
+
+#chore-header {
+    text-decoration: underline;
+}

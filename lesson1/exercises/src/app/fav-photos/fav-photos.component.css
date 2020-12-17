@@ -1,9 +1,11 @@
 h3 {
-   color: brown;
+   color: #7c8ca6;
 }
 
 img {
-
+   width: 250px;
+   height: 200px;
+   border-radius: 10px;
 }
 
 .photos {
