@@ -22,6 +22,7 @@
 
 img {
     position: absolute;
+    bottom: 0px;
 }
 
 .container-right {
